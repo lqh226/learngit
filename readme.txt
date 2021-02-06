@@ -5,3 +5,5 @@ Now I can push any file to the GitHub.
 I wii test.
 Creating a new branch.
 Creating branch is quick.
+Creating a new branch is simple.
+Creating a new brach is quick and simple.
